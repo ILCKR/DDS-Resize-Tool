@@ -1,4 +1,4 @@
-# RUSSIAN README
+# [RUSSIAN README](https://github.com/ILCKR/DDS-Resize-Tool/blob/main/README-RU.md)
 
 # What is this?
 
