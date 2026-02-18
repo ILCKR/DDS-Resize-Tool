@@ -9,7 +9,8 @@
 # Требования
 
 1. **Powershell 7** - [Microsoft](https://learn.microsoft.com/ru-ru/powershell/scripting/install/install-powershell-on-windows?view=powershell-7.5)
-2. **Texconv** - [Latest](https://github.com/Microsoft/DirectXTex/releases/latest/download/texconv.exe)
+2. **Texconv** - [Новейший](https://github.com/Microsoft/DirectXTex/releases/latest/download/texconv.exe)
+3. **СКРИПТ (ЭТОТ ИНСТРУМЕНТ) из Релизов** - [Новейший](https://github.com/ILCKR/DDS-Resize-Tool/releases/latest)
 
 # Использование
 
