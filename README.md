@@ -10,6 +10,7 @@
 
 1. **PowerShell 7** - [Microsoft](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.5)
 2. **Texconv** - [Latest](https://github.com/Microsoft/DirectXTex/releases/latest/download/texconv.exe)
+3. **SCRIPT (THIS TOOL) from Releases** - [Latest](https://github.com/ILCKR/DDS-Resize-Tool/releases/latest)
 
 # Usage
 
